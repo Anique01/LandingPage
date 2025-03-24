@@ -1,5 +1,7 @@
 # Landing Page Project
 
+Note: To see my commit messages on the whole project please visit: [the place where I first started building this project](https://github.com/Anique01/FoundationsCourse_OdinProject/tree/main/LandingPage)
+
 This project is part of [The Odin Project's Foundations](https://www.theodinproject.com/lessons/foundations-landing-page) course. For this assignment, I'll be creating a landing page based on a provided design, using HTML and CSS. The main goal is to put the skills I've learned so far into practice, including structuring content with HTML and styling with CSS.
 
 ## Project Features
